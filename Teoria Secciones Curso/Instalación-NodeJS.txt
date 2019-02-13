@@ -1,0 +1,32 @@
+Instalar NodeJS
+
+Descargar de la página oficial
+
+Abrir la terminal de Node.js
+
+Para ver la versión y que se instalo correctamente:
+Node -v
+
+Agregar a Node a path variable (en Windows) para usarlo
+desde la consolo normal desde cualquier posición
+
+En la consola escribir:
+node
+
+para iniciar el modo interprete
+
+
+Se puede ingrasar código JavaScript (será pasado a Node
+a través del motor V8)
+
+ctrl + c o .exit para salir del modo intérprete.
+
+
+Para abrir un script hay que ir a la carpeta donde se encuentra
+el archivo y escribir en la consola
+
+node <nombre de archivo>
+
+
+Explica el modo debug y los breakpoints
+Usa Visual Studio Code (pero se puede usar otro programa)
