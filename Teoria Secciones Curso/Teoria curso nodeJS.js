@@ -45,3 +45,66 @@ asique estoy mandando este print a c++ que luego ira al V8. En C++ he definido u
 este pedazo de codigo de c++(que no era de v8)
 
 */
+
+/*												CLASE 9
+Sección 3
+
+Clase 10
+
+cliente y servidor
+
+NodeJS trabaja del lado del servidor
+
+
+Servidor: brinda servicios
+
+Cliente: solicita servicios
+
+
+
+Cuadro genérico
+
+______ Request     ______
+Client| --------> |Server|
+______| <-------- |______|
+       Response
+
+Las comunicaciones se hacen en formato estándar
+
+
+Cuadro de internet
+
+_________  HTTP Request     ____________
+Navegador| --------------> |Servidor Web|
+_________| <-------------- |____________|
+           HTTP Response
+
+
+
+La idea de crear NodeJS surgio para permitir que
+el código ejecutado en el navegador y en el servidor
+se puede escribir usando un solo lenguaje (JavaScript).
+
+JavaScript se basa en la especificación ECMAScript.
+Hay que tener en cuenta que a JavaScript se le agregaron
+funcionalidades que no pertencen al estándar para
+facilitar la programación en el navegador (por ejemplo,
+editar el DOM).
+
+
+Clase 11
+
+Funcionalidades agregadas a JavaScript en NodeJS (no
+están presentes en ECMAScript):
+-Mejores maneras de organizar el código en piezas reutilizables
+-Trabajar con archivos
+-Trabajar con bases de datos
+-La habilidad de comunicarse a través de internet
+-La habilidad de recibir y responder request en el
+formato estándar
+-Lidiar con trabajos que llevan mucho tiempo, sin
+bloquear el servidor
+
+
+
+*/
