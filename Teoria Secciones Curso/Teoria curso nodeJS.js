@@ -103,7 +103,71 @@ están presentes en ECMAScript):
 -La habilidad de recibir y responder request en el
 formato estándar
 -Lidiar con trabajos que llevan mucho tiempo, sin
-bloquear el servidor
+bloquear el servidor.
+
+
+Clase 12
+
+Muestra la página de Github de NodeJS,
+sus dependencias y que está hecho en c++.
+
+
+Clase 13
+
+Muestra que en el código tambien hay librerías de JavaScript,
+algunas son wrappers a código en c++ y otras son
+funciones que agregaron porque las consideraban utiles.
+
+
+Clase 14
+
+Instrucciones para descargar código que acompaña los videos.
+
+Clase 15
+
+Explica cómo instalar nodeJS y cómo ejecutar una app en NodeJS.
+
+
+
+*/
+
+/*												
+Sección 4
+
+Clase 16
+
+Módulo:
+Un bloque reusable de código cuya existancia no
+impacta accidentalmente en otro código.
+
+También menciona que hay una forma más común de escribir
+el código en NodeJS (dice que es la que se usa en
+el curso).
+
+Clase 17
+
+First-class function:
+Todo lo que puedes hacer con otros tipos lo puedes
+hacer con funciones.
+
+Puedes usar funciones como strings, numbers,etc.
+
+
+Expresión:
+Un bloque de código que resulta en un valor.
+
+Invocar/llamar a una función: ejecutar su código.
+
+Las funciones se pueden declarar "on the fly".
+
+Una función anónima no tiene nombre.
+
+Clase 18
+
+Use de require para agregar un módulo (similar al include en C).
+
+Uso de de exports y module.exports para decidir que funciones
+son visibles desde otros módulos.
 
 
 
